@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextFormatterComponent renders text on submit 1`] = `
+<Fragment>
+  <TextInputForm
+    handleSubmit={[Function]}
+    handleTextChange={[Function]}
+    text=""
+  />
+  <PrintMessage
+    color="purple"
+    message=""
+  />
+  <ColorOptions
+    handleColorChange={[Function]}
+  />
+</Fragment>
+`;
