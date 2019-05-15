@@ -8,7 +8,7 @@ export default function Colors({ colors }){
 
   return (
     <ul>
-      {colorList}
+      {colorList} 
     </ul>
   );
 }
