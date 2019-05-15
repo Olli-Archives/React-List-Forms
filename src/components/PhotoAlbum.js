@@ -9,7 +9,7 @@ export default function PhotoAlbum({ album }){
 
   return (
     <ul>
-      <Header title='{title}'/>
+      <Header title={title}/>
       <Photos photos={photos}/>
     </ul>
   );
