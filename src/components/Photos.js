@@ -10,7 +10,7 @@ export default function Photos({ photos }) {
       </li>
     );
   });
-  return <ul>{photoList}</ul>;
+  return photoList ;
 }
 
 Photos.propTypes = {
