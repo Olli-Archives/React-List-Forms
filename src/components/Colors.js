@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export default function Colors({ colors }){
   const colorList = colors.map(color=>{
-    return <li key={`${color.name}${color.hex}`}>name:{color.name}hex:{color.hex}rgb:red={color.red}green={color.green}blue={color.blue}</li>;
+    return <li key={`${color.name}${color.hex}`}>name:{color.name}hex:{color.hex}rgb:red={color.rgb.red}green={color.rgb.green}blue={color.rgb.blue}</li>;
   });
 
   return (
