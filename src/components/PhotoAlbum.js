@@ -5,10 +5,11 @@ import Header from './Header';
 
 export default function PhotoAlbum({ album }){
   const { title, photos } = album;
+  console.log('title passed to header', title);
 
   return (
     <ul>
-      <Header title={title}/>
+      <Header title='{title}'/>
       <Photos photos={photos}/>
     </ul>
   );

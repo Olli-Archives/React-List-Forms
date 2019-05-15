@@ -1,7 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Header component creates a header 1`] = `
-<h1>
-  test header
-</h1>
+<li>
+  <h1>
+    test header
+  </h1>
+</li>
 `;

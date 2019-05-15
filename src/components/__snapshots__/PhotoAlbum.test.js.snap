@@ -3,7 +3,7 @@
 exports[`PhotoAlbum component creates an album witha title and an array of images 1`] = `
 <ul>
   <Header
-    title="Best Album Ever"
+    title="{title}"
   />
   <Photos
     photos={
