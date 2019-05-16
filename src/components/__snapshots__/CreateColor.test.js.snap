@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateColor component it creates a color with an object property 1`] = `
+<dl>
+  <dt>
+    name
+  </dt>
+  <dd>
+    blue
+  </dd>
+  <dt>
+    hex:
+    blue
+  </dt>
+  <dd />
+  <dt>
+    RGB
+  </dt>
+  <dd>
+    <p>
+      red:
+      2
+    </p>
+    <p>
+      green:
+      9
+    </p>
+    <p>
+      blue:
+      44
+    </p>
+  </dd>
+</dl>
+`;
