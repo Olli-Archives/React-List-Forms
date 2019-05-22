@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideBar component renders side bar and its children 1`] = `
+<nav>
+  <h2>
+    im a child!
+  </h2>
+</nav>
+`;
