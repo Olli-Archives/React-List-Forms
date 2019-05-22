@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Photos component renders a list of photos from an array 1`] = `
+Array [
+  <li
+    key="0"
+  >
+    <Photo
+      photo="https://ichef.bbci.co.uk/news/936/cpsprodpb/E4CB/production/_95717585_happy.jpg"
+    />
+  </li>,
+  <li
+    key="1"
+  >
+    <Photo
+      photo="https://ichef.bbci.co.uk/news/936/cpsprodpb/E4CB/production/_95717585_happy.jpg"
+    />
+  </li>,
+  <li
+    key="2"
+  >
+    <Photo
+      photo="https://ichef.bbci.co.uk/news/936/cpsprodpb/E4CB/production/_95717585_happy.jpg"
+    />
+  </li>,
+]
+`;

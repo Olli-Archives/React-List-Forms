@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhotoAlbum component creates an album witha title and an array of images 1`] = `
+<ul>
+  <Header
+    title="Best Album Ever"
+  />
+  <Photos
+    photos={
+      Array [
+        "https://ichef.bbci.co.uk/news/936/cpsprodpb/E4CB/production/_95717585_happy.jpg",
+        "https://ichef.bbci.co.uk/news/936/cpsprodpb/E4CB/production/_95717585_happy.jpg",
+        "https://ichef.bbci.co.uk/news/936/cpsprodpb/E4CB/production/_95717585_happy.jpg",
+      ]
+    }
+  />
+</ul>
+`;
